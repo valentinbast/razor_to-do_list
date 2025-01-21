@@ -1,0 +1,59 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# User-specific files
+*.rsuser
+*.sln*
+*.vspx
+*.userprefs
+
+# Build artifacts
+**/bin/
+**/obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.cache
+*.config
+
+# Dependency directories
+node_modules/
+libman/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Razor components
+*.razor.g.*
+
+# Publish directory
+/wwwroot/
+publish/
+wwwroot/
